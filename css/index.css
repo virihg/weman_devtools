@@ -1,0 +1,26 @@
+body {
+	font-family: sans-serif;
+}
+
+header {
+	paddin: 27px;
+}
+
+header img {
+	float: left;
+	max-width: 120px;
+	max-height: 120px;
+}
+
+#instrucciones {
+	font-size: 1.2rem;
+}
+
+#resultado {
+	font-family: monospace;
+	margin-top: 20px;
+}
+
+footer {
+	font-size: 0.6rem;
+}
